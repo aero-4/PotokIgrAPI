@@ -1,8 +1,8 @@
-### PotokIgr API
+# PotokIgr API
 
 ## Backend Pet Project
 
-Stack: FastAPI/sqlite3/TortoiseORM
+### Stack: FastAPI/sqlite3/TortoiseORM
 
 1. [x] Microservice поиск метаданных игр по категориям! 
 2. [x] Когда листаем на главной должны догружаться игры - бесконечная загрузка
